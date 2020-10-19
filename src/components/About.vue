@@ -2,7 +2,7 @@
   <section id="about" class="section">
     <div class="container has-text-centered">
       <div class="image avatar">
-        <img src="../assets/img/profile.png">
+        <img src="../assets/img/profile-2.jpg">
       </div>
       <h2 class="title is-2">About</h2>
       <separator></separator>
