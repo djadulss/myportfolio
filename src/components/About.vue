@@ -11,7 +11,7 @@
         <br>
         Since I was little, I was interested in computers and made things and this has led me to the world of the internet as a developer who creates all kinds of things!
         <br>
-        Currently a freelance web developer, in Makassar. I have completed the Bachelor of Information Systems Program at STMIK Dipanegara Makassar and have joined bootcamp Javascript on Hacktiv8 for 3 months.
+        Currently a freelance web developer, in Jakarta. I have completed the Bachelor of Information Systems Program at STMIK Dipanegara Makassar.
       </div>
     </div>
   </section>

@@ -34,6 +34,10 @@ export default {
           link: "https://www.facebook.com/djaduls"
         },
         {
+          icon: "instagram",
+          link: "https://www.instagram.com/djaduls"
+        },
+        {
           icon: "linkedin",
           link: "https://www.linkedin.com/in/khairul-baharuddin-924831107"
         },
@@ -48,7 +52,8 @@ export default {
         {
           icon: "github",
           link: "https://github.com/arul21"
-        }
+        },
+        
       ]
     };
   }
